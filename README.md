@@ -2,7 +2,7 @@
 <h2>Hi, my name is Brenno Maluf. Welcome to my profile! 🖖</h2>
 </div>
 
-- 🔭 C# & .NET Trainee
+- 🔭 C# & .NET - React.Js - Next.js - Vue.Js - JavaScript - HTML5 - CSS3 Trainee
 - 😄 Pronouns: he/him
 <br>
 
