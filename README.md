@@ -20,41 +20,6 @@
 
 ---
 
-### 🎮 Play a Game
-
-<!-- MODO A: Jogo imediato via GitHub Pages (recomendado para zero setup) -->
-<p align="center">
-  <a href="https://gabrielecirulli.github.io/2048/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gabrielecirulli/2048/master/meta/og_image.png" alt="Play 2048" width="500" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://gabrielecirulli.github.io/2048/" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY%20NOW-2048-%2300C853?style=for-the-badge" />
-  </a>
-</p>
-
-<!--
-MODO B (opcional): 2048 dentro do README via GitHub Actions
-Depois de configurar o repo template (instruções abaixo),
-descomente os blocos e remova o MODO A se quiser.
-  
-<p align="center">
-  🕹️ Use os comentários do repositório para jogar:
-  <a href="https://github.com/ByMaluf/Readme-2048/issues/new?title=move&body=up|down|left|right">↑ ↓ ← →</a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ByMaluf/Readme-2048/main/media/board.png" alt="2048 board in README" width="500" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ByMaluf/Readme-2048/main/media/ranking.png" alt="2048 ranking" width="500" />
-</p>
--->
-
----
-
 ### 📊 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByMaluf&bg_color=0d1117&color=3CA9F4&line=3CA9F4&point=FFFFFF&area=true&hide_border=true"/>
